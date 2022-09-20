@@ -1,7 +1,7 @@
 const nameToChange = document.getElementById('nameToChange')
 
 window.addEventListener('DOMContentLoaded', () => {
-    if (nameToChange == 'Edward') {
+    if (nameToChange == 'Alex') {
         console.log('changed already...')
         return
     } else{
